@@ -10,7 +10,7 @@ const Sidebar = () => (
   <div className="channel-list__sidebar">
     <div className="channel-list__sidebar__icon1">
       <div className="icon1__inner">
-        <Link to="/chat">
+        <Link to="/find-a-doctor">
           <img src={HospitalIcon} alt="Hospital" width="30" />
         </Link>
       </div>
